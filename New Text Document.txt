@@ -1,0 +1,3 @@
+1.i started create a gitrepo in git hub
+2.create a file and i push into that git repo (name:project1gittest1)
+3.i want to test how the git merge is working
